@@ -124,7 +124,7 @@ Table of content:
   --bg-color-even: #E8E8E8;
   --bg-color-odd: #F4F4F4;
   --bg-light: #F8F9FA;
-  --bg-dark-1: #134238;
+  --bg-dark-1: #0c3632;
   --bg-dark-2: #1E4645;
   --bg-dark-3: #0c3130;  
   --bg-dark-1-rgb: 16, 60, 59;
@@ -1352,6 +1352,14 @@ footer p {
 
 footer.footer-black {
   background: #222222;
+}
+
+.ragi{
+  color: #fff;;
+}
+
+.ragi:hover{
+  color: #ab2c24;
 }
 
 footer h5,
